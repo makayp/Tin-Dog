@@ -109,6 +109,10 @@ p {
 
 /* testimonial */
 
+#testimonials {
+    padding-top: 2%;
+}
+
 #testimonials, #press {
     background-color: #ef8172;
     color: #fff;
